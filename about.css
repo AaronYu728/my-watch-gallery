@@ -1,0 +1,17 @@
+.header {
+  display: grid;
+  grid-template-columns: 120px 330px;
+  justify-content: center;
+  padding: 10px 0;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2.5rem;
+  /* background-color: #d8ba8e; */
+  background-color: #FFF8F3;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+} 
